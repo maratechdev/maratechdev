@@ -12,7 +12,7 @@ Salut ! Je suis maratechdev, un développeur passionné par la technologie et l'
 
 ## Contact
 
-- **Email : macmaradev@gmail.com
+- **Email : contact@maragraphix.com
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour toute collaboration ou question.
 
