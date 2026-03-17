@@ -2,7 +2,7 @@
 
 **Développeur Full Stack & Web Designer** basé à Dakar, Sénégal 🇸🇳
 
-Je conçois et développe des applications web complètes — de la base de données au déploiement en production.
+Je conçois et développe des applications web complètes ; de la base de données au déploiement en production.
 
 ---
 
