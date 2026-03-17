@@ -1,22 +1,45 @@
-# Bienvenue sur le profil GitHub de Mara Dev 👋
+# Mara Dev 👋
 
-## À propos de moi
+**Développeur Full Stack & Web Designer** basé à Dakar, Sénégal 🇸🇳
 
-Salut ! Je suis maratechdev, un développeur passionné par la technologie et l'innovation. J'aime explorer de nouvelles technologies et travailler sur des projets intéressants.
+Je conçois et développe des applications web complètes — de la base de données au déploiement en production.
 
-## Compétences
+---
 
-- **Langages de programmation :** Python, JavaScript, Java, C++
-- **Frameworks :** React, Node.js, Django, Spring
-- **Outils :** Git, Docker, Kubernetes, Jenkins
+## 🛠️ Stack technique
 
-## Contact
+**Frontend**
+- Next.js 14 (App Router) · React · TypeScript
+- Tailwind CSS · Framer Motion
+- next-intl (i18n)
 
-- Email : maramansuur@gmail.com
+**Backend**
+- Node.js · Express · REST API
+- Prisma ORM · PostgreSQL
+- JWT · Nodemailer
 
-Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour toute collaboration ou question.
+**DevOps & Outils**
+- Docker · Railway · GitHub Actions
+- pnpm workspaces (monorepo)
+- Git · Vercel
 
-<!---
-maratechdev/maratechdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Projets récents
+
+### [Wutkoo](https://github.com/maratechdev/wutkoo)
+Plateforme de réservation d'activités et d'expériences au Sénégal.
+- Monorepo Next.js (web + admin + prestataires + API)
+- Paiement, gestion de réservations, tableau de bord admin
+- Déployé sur Railway avec Docker
+
+---
+
+## 📫 Contact
+
+- 🌐 [maragraphix.com](https://maragraphix.com)
+- ✉️ mansuuranna@gmail.com
+
+---
+
+*Disponible pour des missions freelance et collaborations.*
