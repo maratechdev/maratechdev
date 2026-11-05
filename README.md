@@ -68,8 +68,7 @@ Plateforme de réservation d'activités et d'expériences au Sénégal.
 ## 📫 Contact
 
 - 🌐 [afrixel.com](https://afrixel.com)
-- 🌐 [maragraphix.com](https://maragraphix.com)
-- ✉️ mansuuranna@gmail.com
+- ✉️ maramansuur@gmail.com
 
 ---
 
