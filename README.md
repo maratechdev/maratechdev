@@ -17,6 +17,9 @@ Je conçois et développe des applications web complètes ; de la base de donné
 - Cloudflare D1 · Auth.js · JWT
 - Resend · Nodemailer · Cloudinary
 
+**IA**
+- API Claude (Anthropic) · SDK TypeScript
+
 **DevOps & Outils**
 - Cloudflare Workers · Vercel · Railway · Docker
 - GitHub Actions · pnpm workspaces (monorepo)
@@ -43,10 +46,13 @@ Site et boutique de mobilier et décoration haut de gamme, migré de Next.js + P
 - Catalogue par catégories, panier, commandes enregistrées avec alerte email
 - Espace de gestion : produits (photos par glisser-déposer, stock, prix barré), commandes, paramètres
 
-### [Mara Dev](https://afrixel.com) · *Astro*
-Mon site professionnel : services, réalisations avec études de cas, tarifs, version FR/EN.
-- Pages statiques légères, hébergées sur Vercel
-- Vidéo de présentation en motion design générée en code
+### [Mara Dev](https://afrixel.com) · *Astro, TypeScript, Vercel, API Claude*
+Mon site professionnel : services, réalisations avec études de cas, tarifs, version FR/EN, et des [outils gratuits](https://afrixel.com/outils) pour les entrepreneurs et les candidats.
+- Générateurs de **facture / devis en FCFA**, de **CV** (10 modèles, 26 métiers, CV en anglais) et de **lettre de motivation**, qui fonctionnent entièrement dans le navigateur
+- PDF fabriqués sur place, avec une couche de texte lisible par les logiciels de tri des candidatures
+- 26 pages « Modèle de CV » par métier pour le référencement
+- Aide à la rédaction par IA (API Claude, fonction Vercel) prête à activer
+- Pages statiques légères ; vidéo de présentation en motion design générée en code
 
 ### [Mara Fit](https://github.com/maratechdev/marafit) · *Next.js 15, Supabase, Recharts*
 Application de coaching sportif : programmes personnalisés, suivi des séances et des progrès.
